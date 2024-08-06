@@ -138,7 +138,7 @@ window.boot = function () {
             }
         }
     }
-    loadJson("assets/slot/bundleVer.json?ver=" + new Date().getTime(), "slot");
+    loadJson("assets/slot/1.0.0/bundleVer.json?ver=" + new Date().getTime(), "slot");
 
 };
 
