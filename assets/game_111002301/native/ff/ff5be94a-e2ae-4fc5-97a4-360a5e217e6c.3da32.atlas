@@ -1,0 +1,104 @@
+
+infoBar.png
+size: 912,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_glow
+  rotate: false
+  xy: 630, 833
+  size: 187, 187
+  orig: 199, 198
+  offset: 6, 5
+  index: -1
+fx_particle/ib_particle_00
+  rotate: false
+  xy: 463, 214
+  size: 375, 114
+  orig: 375, 114
+  offset: 0, 0
+  index: -1
+fx_particle/ib_particle_01
+  rotate: true
+  xy: 493, 467
+  size: 421, 134
+  orig: 421, 134
+  offset: 0, 0
+  index: -1
+fx_particle/ib_particle_02
+  rotate: false
+  xy: 2, 86
+  size: 443, 148
+  orig: 443, 148
+  offset: 0, 0
+  index: -1
+fx_particle/ib_particle_03
+  rotate: false
+  xy: 2, 236
+  size: 459, 154
+  orig: 459, 154
+  offset: 0, 0
+  index: -1
+fx_particle/ib_particle_04
+  rotate: false
+  xy: 2, 392
+  size: 471, 162
+  orig: 471, 162
+  offset: 0, 0
+  index: -1
+fx_particle/ib_particle_05
+  rotate: false
+  xy: 2, 556
+  size: 481, 166
+  orig: 481, 166
+  offset: 0, 0
+  index: -1
+fx_particle/ib_particle_06
+  rotate: false
+  xy: 2, 724
+  size: 489, 164
+  orig: 489, 164
+  offset: 0, 0
+  index: -1
+fx_particle/ib_particle_07
+  rotate: true
+  xy: 753, 334
+  size: 497, 120
+  orig: 497, 120
+  offset: 0, 0
+  index: -1
+fx_particle/ib_particle_08
+  rotate: true
+  xy: 629, 330
+  size: 501, 122
+  orig: 501, 122
+  offset: 0, 0
+  index: -1
+fx_particle/ib_particle_09
+  rotate: false
+  xy: 447, 92
+  size: 463, 120
+  orig: 463, 120
+  offset: 0, 0
+  index: -1
+fx_particle/ib_particle_10
+  rotate: false
+  xy: 2, 2
+  size: 437, 82
+  orig: 437, 82
+  offset: 0, 0
+  index: -1
+fx_particle/ib_particle_11
+  rotate: false
+  xy: 447, 40
+  size: 373, 50
+  orig: 373, 50
+  offset: 0, 0
+  index: -1
+infobar_a
+  rotate: false
+  xy: 2, 890
+  size: 626, 130
+  orig: 626, 130
+  offset: 0, 0
+  index: -1

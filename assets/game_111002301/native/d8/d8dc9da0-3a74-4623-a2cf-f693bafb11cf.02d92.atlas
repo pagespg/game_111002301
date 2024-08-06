@@ -1,0 +1,41 @@
+
+bigWin_ui.png
+size: 569,1027
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_01
+  rotate: false
+  xy: 328, 27
+  size: 151, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+eye_02
+  rotate: false
+  xy: 328, 97
+  size: 153, 68
+  orig: 153, 68
+  offset: 0, 0
+  index: -1
+fx_shine
+  rotate: false
+  xy: 2, 485
+  size: 540, 540
+  orig: 540, 540
+  offset: 0, 0
+  index: -1
+girl
+  rotate: false
+  xy: 2, 2
+  size: 324, 481
+  orig: 328, 490
+  offset: 2, 5
+  index: -1
+textBg
+  rotate: true
+  xy: 328, 167
+  size: 316, 239
+  orig: 316, 239
+  offset: 0, 0
+  index: -1

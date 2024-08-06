@@ -1,0 +1,224 @@
+
+rotateBtn.png
+size: 190,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spin_button
+  rotate: false
+  xy: 2, 2
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+
+
+
+rotateBtn.jpg
+size: 1236,1236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_hoverGlow
+  rotate: false
+  xy: 2, 1007
+  size: 294, 227
+  orig: 294, 227
+  offset: 0, 0
+  index: -1
+glowFX/fx_glow_00
+  rotate: true
+  xy: 223, 952
+  size: 53, 56
+  orig: 55, 59
+  offset: 1, 1
+  index: -1
+glowFX/fx_glow_01
+  rotate: false
+  xy: 1084, 492
+  size: 113, 112
+  orig: 117, 115
+  offset: 3, 1
+  index: -1
+glowFX/fx_glow_02
+  rotate: true
+  xy: 1068, 315
+  size: 175, 166
+  orig: 177, 169
+  offset: 1, 1
+  index: -1
+glowFX/fx_glow_03
+  rotate: false
+  xy: 858, 213
+  size: 185, 178
+  orig: 189, 181
+  offset: 2, 2
+  index: -1
+glowFX/fx_glow_04
+  rotate: false
+  xy: 428, 200
+  size: 194, 190
+  orig: 199, 193
+  offset: 3, 1
+  index: -1
+glowFX/fx_glow_05
+  rotate: true
+  xy: 864, 393
+  size: 192, 202
+  orig: 197, 205
+  offset: 3, 1
+  index: -1
+glowFX/fx_glow_06
+  rotate: true
+  xy: 219, 391
+  size: 198, 207
+  orig: 201, 209
+  offset: 2, 1
+  index: -1
+glowFX/fx_glow_07
+  rotate: true
+  xy: 2, 377
+  size: 198, 206
+  orig: 201, 209
+  offset: 2, 1
+  index: -1
+glowFX/fx_glow_08
+  rotate: true
+  xy: 880, 587
+  size: 199, 202
+  orig: 203, 205
+  offset: 3, 2
+  index: -1
+glowFX/fx_glow_09
+  rotate: true
+  xy: 1084, 606
+  size: 180, 127
+  orig: 183, 131
+  offset: 2, 2
+  index: -1
+particleFX/fx_particle_01
+  rotate: true
+  xy: 665, 595
+  size: 209, 213
+  orig: 209, 213
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_02
+  rotate: true
+  xy: 2, 577
+  size: 213, 215
+  orig: 213, 215
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_03
+  rotate: true
+  xy: 2, 792
+  size: 213, 219
+  orig: 213, 219
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_04
+  rotate: true
+  xy: 527, 806
+  size: 213, 219
+  orig: 213, 219
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_05
+  rotate: true
+  xy: 748, 806
+  size: 213, 219
+  orig: 213, 219
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_06
+  rotate: true
+  xy: 969, 788
+  size: 213, 219
+  orig: 213, 219
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_07
+  rotate: true
+  xy: 223, 591
+  size: 213, 219
+  orig: 213, 219
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_08
+  rotate: true
+  xy: 298, 806
+  size: 213, 227
+  orig: 213, 227
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_09
+  rotate: true
+  xy: 776, 1021
+  size: 213, 235
+  orig: 213, 235
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_10
+  rotate: true
+  xy: 298, 1021
+  size: 213, 237
+  orig: 213, 237
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_11
+  rotate: true
+  xy: 537, 1021
+  size: 213, 237
+  orig: 213, 237
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_12
+  rotate: false
+  xy: 1013, 1003
+  size: 213, 231
+  orig: 213, 231
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_13
+  rotate: true
+  xy: 444, 599
+  size: 205, 219
+  orig: 205, 219
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_14
+  rotate: true
+  xy: 444, 392
+  size: 205, 211
+  orig: 205, 211
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_15
+  rotate: false
+  xy: 657, 400
+  size: 205, 193
+  orig: 205, 193
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_16
+  rotate: false
+  xy: 657, 207
+  size: 199, 191
+  orig: 199, 191
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_17
+  rotate: false
+  xy: 210, 200
+  size: 195, 189
+  orig: 195, 189
+  offset: 0, 0
+  index: -1
+particleFX/fx_particle_18
+  rotate: false
+  xy: 2, 194
+  size: 187, 181
+  orig: 187, 181
+  offset: 0, 0
+  index: -1

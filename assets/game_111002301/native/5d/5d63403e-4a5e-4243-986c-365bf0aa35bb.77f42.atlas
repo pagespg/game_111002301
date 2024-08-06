@@ -1,0 +1,139 @@
+
+h_sake.png
+size: 214,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cap_02
+  rotate: false
+  xy: 2, 2
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+cup_01
+  rotate: true
+  xy: 116, 120
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+cup_01x
+  rotate: true
+  xy: 2, 53
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+cup_outline
+  rotate: true
+  xy: 183, 5
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+fx_ripple_01
+  rotate: true
+  xy: 204, 231
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+fx_ripple_02
+  rotate: true
+  xy: 204, 247
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+fx_ripple_03
+  rotate: false
+  xy: 59, 7
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+fx_ripple_04
+  rotate: true
+  xy: 76, 82
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+fx_ripple_05
+  rotate: true
+  xy: 90, 82
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+fx_sake
+  rotate: false
+  xy: 183, 39
+  size: 27, 79
+  orig: 27, 79
+  offset: 0, 0
+  index: -1
+fx_sakeH_01
+  rotate: false
+  xy: 197, 131
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+fx_sakeH_02
+  rotate: false
+  xy: 55, 82
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+fx_sparks
+  rotate: false
+  xy: 55, 59
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 169, 120
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+sake_bottle
+  rotate: true
+  xy: 2, 112
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+sake_bottle_outline
+  rotate: false
+  xy: 78, 20
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+sake_bottlex
+  rotate: false
+  xy: 116, 6
+  size: 65, 112
+  orig: 65, 112
+  offset: 0, 0
+  index: -1
+tray
+  rotate: false
+  xy: 2, 179
+  size: 167, 87
+  orig: 167, 87
+  offset: 0, 0
+  index: -1
+tray_front
+  rotate: true
+  xy: 171, 157
+  size: 109, 31
+  orig: 109, 31
+  offset: 0, 0
+  index: -1

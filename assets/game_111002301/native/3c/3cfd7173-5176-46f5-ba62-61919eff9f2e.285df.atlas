@@ -1,0 +1,27 @@
+
+totalWin_ui.png
+size: 917,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_glow
+  rotate: false
+  xy: 684, 297
+  size: 231, 231
+  orig: 231, 231
+  offset: 0, 0
+  index: -1
+item_bg
+  rotate: false
+  xy: 2, 162
+  size: 680, 366
+  orig: 691, 366
+  offset: 6, 0
+  index: -1
+item_rope
+  rotate: false
+  xy: 2, 2
+  size: 756, 158
+  orig: 756, 161
+  offset: 0, 3
+  index: -1

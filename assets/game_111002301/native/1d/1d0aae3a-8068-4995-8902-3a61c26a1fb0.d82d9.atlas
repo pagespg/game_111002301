@@ -1,0 +1,111 @@
+
+h_bucket.png
+size: 497,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 3
+  rotate: false
+  xy: 50, 39
+  size: 157, 113
+  orig: 157, 113
+  offset: 0, 0
+  index: -1
+Layer-3x
+  rotate: true
+  xy: 2, 15
+  size: 137, 46
+  orig: 157, 113
+  offset: 6, 48
+  index: -1
+_seq/wa_000
+  rotate: true
+  xy: 122, 2
+  size: 35, 51
+  orig: 269, 151
+  offset: 116, 34
+  index: -1
+_seq/wa_001
+  rotate: false
+  xy: 427, 6
+  size: 45, 74
+  orig: 269, 151
+  offset: 109, 39
+  index: -1
+_seq/wa_002
+  rotate: true
+  xy: 314, 4
+  size: 62, 73
+  orig: 269, 151
+  offset: 97, 43
+  index: -1
+_seq/wa_003
+  rotate: false
+  xy: 427, 82
+  size: 68, 70
+  orig: 269, 151
+  offset: 100, 44
+  index: -1
+_seq/wa_004
+  rotate: true
+  xy: 358, 75
+  size: 77, 67
+  orig: 269, 151
+  offset: 92, 41
+  index: -1
+_seq/wa_005
+  rotate: false
+  xy: 225, 7
+  size: 36, 56
+  orig: 269, 151
+  offset: 117, 35
+  index: -1
+_seq/wa_006
+  rotate: true
+  xy: 175, 2
+  size: 35, 48
+  orig: 269, 151
+  offset: 118, 34
+  index: -1
+_seq/wa_007
+  rotate: false
+  xy: 389, 36
+  size: 34, 37
+  orig: 269, 151
+  offset: 118, 34
+  index: -1
+_seq/wa_008
+  rotate: true
+  xy: 2, 4
+  size: 9, 27
+  orig: 269, 151
+  offset: 128, 34
+  index: -1
+fx_mist
+  rotate: true
+  xy: 209, 65
+  size: 87, 61
+  orig: 89, 63
+  offset: 1, 1
+  index: -1
+outline
+  rotate: false
+  xy: 263, 14
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 50, 2
+  size: 35, 70
+  orig: 35, 70
+  offset: 0, 0
+  index: -1
+towel
+  rotate: false
+  xy: 272, 68
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1

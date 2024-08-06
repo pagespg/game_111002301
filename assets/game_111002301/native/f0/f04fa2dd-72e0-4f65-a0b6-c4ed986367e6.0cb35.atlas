@@ -1,0 +1,13 @@
+
+sceneTransformFX.jpg
+size: 447,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_glow
+  rotate: false
+  xy: 2, 2
+  size: 443, 341
+  orig: 443, 341
+  offset: 0, 0
+  index: -1

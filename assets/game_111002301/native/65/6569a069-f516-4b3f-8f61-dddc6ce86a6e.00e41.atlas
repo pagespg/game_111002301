@@ -1,0 +1,118 @@
+
+ui.png
+size: 829,1055
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anchor
+  rotate: true
+  xy: 354, 201
+  size: 237, 217
+  orig: 237, 217
+  offset: 0, 0
+  index: -1
+boomGlow
+  rotate: true
+  xy: 2, 200
+  size: 300, 350
+  orig: 300, 350
+  offset: 0, 0
+  index: -1
+fx_fireShot/bw_cannon_fire_00
+  rotate: true
+  xy: 573, 213
+  size: 120, 105
+  orig: 120, 105
+  offset: 0, 0
+  index: -1
+fx_fireShot/bw_cannon_fire_01
+  rotate: true
+  xy: 680, 133
+  size: 200, 145
+  orig: 200, 145
+  offset: 0, 0
+  index: -1
+fx_fireShot/bw_cannon_fire_02
+  rotate: true
+  xy: 2, 2
+  size: 196, 149
+  orig: 196, 149
+  offset: 0, 0
+  index: -1
+fx_fireShot/bw_cannon_fire_03
+  rotate: true
+  xy: 153, 6
+  size: 192, 111
+  orig: 192, 111
+  offset: 0, 0
+  index: -1
+fx_fireShot/bw_cannon_fire_04
+  rotate: true
+  xy: 521, 9
+  size: 190, 107
+  orig: 190, 107
+  offset: 0, 0
+  index: -1
+fx_fireShot/bw_cannon_fire_05
+  rotate: false
+  xy: 630, 335
+  size: 178, 103
+  orig: 178, 103
+  offset: 0, 0
+  index: -1
+fx_fireShot/bw_cannon_fire_06
+  rotate: false
+  xy: 630, 32
+  size: 170, 99
+  orig: 170, 99
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 489, 793
+  size: 260, 312
+  orig: 260, 312
+  offset: 0, 0
+  index: -1
+goldCanon
+  rotate: false
+  xy: 266, 7
+  size: 253, 191
+  orig: 253, 191
+  offset: 0, 0
+  index: -1
+popBg
+  rotate: false
+  xy: 2, 502
+  size: 436, 417
+  orig: 436, 417
+  offset: 0, 0
+  index: -1
+rope
+  rotate: false
+  xy: 803, 973
+  size: 24, 80
+  orig: 25, 80
+  offset: 0, 0
+  index: -1
+scrollBottom
+  rotate: false
+  xy: 2, 989
+  size: 485, 64
+  orig: 485, 64
+  offset: 0, 0
+  index: -1
+scrollTop
+  rotate: false
+  xy: 2, 921
+  size: 477, 66
+  orig: 477, 66
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: true
+  xy: 440, 440
+  size: 351, 352
+  orig: 351, 352
+  offset: 0, 0
+  index: -1

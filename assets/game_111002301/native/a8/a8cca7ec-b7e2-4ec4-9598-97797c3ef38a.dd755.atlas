@@ -1,0 +1,76 @@
+
+house.jpg
+size: 760,760
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 88
+  size: 756, 378
+  orig: 756, 378
+  offset: 0, 0
+  index: -1
+fx_boom/impact_radial_1
+  rotate: false
+  xy: 267, 629
+  size: 131, 129
+  orig: 175, 175
+  offset: 22, 33
+  index: -1
+fx_boom/impact_radial_2
+  rotate: false
+  xy: 132, 631
+  size: 133, 127
+  orig: 175, 175
+  offset: 21, 36
+  index: -1
+fx_boom/impact_radial_3
+  rotate: false
+  xy: 400, 629
+  size: 137, 129
+  orig: 175, 175
+  offset: 19, 34
+  index: -1
+fx_boom/impact_radial_4
+  rotate: false
+  xy: 2, 476
+  size: 169, 153
+  orig: 175, 175
+  offset: 5, 16
+  index: -1
+fx_boom/impact_radial_5
+  rotate: false
+  xy: 173, 468
+  size: 175, 159
+  orig: 175, 175
+  offset: 0, 8
+  index: -1
+fx_boom/impact_radial_6
+  rotate: false
+  xy: 350, 468
+  size: 171, 159
+  orig: 175, 175
+  offset: 4, 8
+  index: -1
+fx_boom/impact_radial_7
+  rotate: false
+  xy: 539, 609
+  size: 157, 149
+  orig: 175, 175
+  offset: 5, 17
+  index: -1
+fx_boom/impact_radial_8
+  rotate: false
+  xy: 539, 609
+  size: 157, 149
+  orig: 175, 175
+  offset: 5, 17
+  index: -1
+window
+  rotate: true
+  xy: 2, 673
+  size: 85, 128
+  orig: 85, 128
+  offset: 0, 0
+  index: -1

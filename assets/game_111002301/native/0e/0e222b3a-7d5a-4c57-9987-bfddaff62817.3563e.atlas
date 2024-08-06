@@ -1,0 +1,27 @@
+
+iconWin_bgFX.jpg
+size: 340,340
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_border
+  rotate: false
+  xy: 70, 220
+  size: 145, 118
+  orig: 171, 128
+  offset: 13, 5
+  index: -1
+fx_glow
+  rotate: false
+  xy: 2, 281
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+fx_shine
+  rotate: false
+  xy: 2, 2
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1

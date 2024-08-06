@@ -1,0 +1,181 @@
+
+anniu.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniudongxiaosi/arrow
+  rotate: false
+  xy: 1729, 13
+  size: 98, 86
+  orig: 100, 88
+  offset: 1, 1
+  index: -1
+anniudongxiaosi/arrow_blur
+  rotate: false
+  xy: 1874, 84
+  size: 100, 84
+  orig: 102, 90
+  offset: 1, 3
+  index: -1
+anniudongxiaosi/spin_button
+  rotate: false
+  xy: 185, 29
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+anniutex/m_hover_01
+  rotate: false
+  xy: 1870, 170
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+anniutex/m_hover_02
+  rotate: false
+  xy: 1744, 167
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+anniutex/spin_circle
+  rotate: false
+  xy: 1917, 19
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+huaban/vfx_a_spin_button_1
+  rotate: false
+  xy: 777, 207
+  size: 48, 50
+  orig: 345, 352
+  offset: 164, 203
+  index: -1
+huaban/vfx_a_spin_button_10
+  rotate: true
+  xy: 1118, 27
+  size: 238, 288
+  orig: 345, 352
+  offset: 53, 27
+  index: -1
+huaban/vfx_a_spin_button_11
+  rotate: false
+  xy: 275, 205
+  size: 255, 305
+  orig: 345, 352
+  offset: 45, 6
+  index: -1
+huaban/vfx_a_spin_button_12
+  rotate: false
+  xy: 2, 201
+  size: 271, 309
+  orig: 345, 352
+  offset: 37, 1
+  index: -1
+huaban/vfx_a_spin_button_13
+  rotate: false
+  xy: 832, 2
+  size: 284, 263
+  orig: 345, 352
+  offset: 30, 44
+  index: -1
+huaban/vfx_a_spin_button_14
+  rotate: false
+  xy: 1440, 281
+  size: 296, 229
+  orig: 345, 352
+  offset: 24, 32
+  index: -1
+huaban/vfx_a_spin_button_15
+  rotate: false
+  xy: 832, 267
+  size: 305, 243
+  orig: 345, 352
+  offset: 20, 15
+  index: -1
+huaban/vfx_a_spin_button_16
+  rotate: false
+  xy: 532, 259
+  size: 298, 251
+  orig: 345, 352
+  offset: 30, 1
+  index: -1
+huaban/vfx_a_spin_button_17
+  rotate: false
+  xy: 1139, 267
+  size: 299, 243
+  orig: 345, 352
+  offset: 25, 1
+  index: -1
+huaban/vfx_a_spin_button_18
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+huaban/vfx_a_spin_button_2
+  rotate: true
+  xy: 1829, 8
+  size: 74, 86
+  orig: 345, 352
+  offset: 150, 182
+  index: -1
+huaban/vfx_a_spin_button_3
+  rotate: true
+  xy: 1612, 31
+  size: 104, 115
+  orig: 345, 352
+  offset: 136, 165
+  index: -1
+huaban/vfx_a_spin_button_4
+  rotate: false
+  xy: 1612, 137
+  size: 130, 142
+  orig: 345, 352
+  offset: 123, 147
+  index: -1
+huaban/vfx_a_spin_button_5
+  rotate: false
+  xy: 357, 35
+  size: 156, 168
+  orig: 345, 352
+  offset: 110, 128
+  index: -1
+huaban/vfx_a_spin_button_6
+  rotate: false
+  xy: 2, 5
+  size: 181, 194
+  orig: 345, 352
+  offset: 96, 108
+  index: -1
+huaban/vfx_a_spin_button_7
+  rotate: false
+  xy: 1408, 43
+  size: 202, 222
+  orig: 345, 352
+  offset: 85, 85
+  index: -1
+huaban/vfx_a_spin_button_8
+  rotate: true
+  xy: 532, 33
+  size: 224, 243
+  orig: 345, 352
+  offset: 74, 66
+  index: -1
+huaban/vfx_a_spin_button_9
+  rotate: true
+  xy: 1738, 293
+  size: 217, 267
+  orig: 345, 352
+  offset: 64, 46
+  index: -1
+white_shine
+  rotate: true
+  xy: 1744, 101
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1

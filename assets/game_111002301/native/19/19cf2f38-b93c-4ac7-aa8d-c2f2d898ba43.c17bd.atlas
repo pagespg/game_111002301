@@ -1,0 +1,146 @@
+
+xiaonvhai.png
+size: 875,875
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_girl_000
+  rotate: true
+  xy: 174, 9
+  size: 172, 169
+  orig: 276, 249
+  offset: 58, 39
+  index: -1
+h_girl_001
+  rotate: true
+  xy: 2, 9
+  size: 172, 170
+  orig: 276, 249
+  offset: 58, 39
+  index: -1
+h_girl_002
+  rotate: true
+  xy: 396, 194
+  size: 169, 172
+  orig: 276, 249
+  offset: 59, 38
+  index: -1
+h_girl_003
+  rotate: true
+  xy: 687, 13
+  size: 170, 168
+  orig: 276, 249
+  offset: 60, 39
+  index: -1
+h_girl_004
+  rotate: false
+  xy: 441, 536
+  size: 214, 166
+  orig: 276, 249
+  offset: 36, 39
+  index: -1
+h_girl_005
+  rotate: false
+  xy: 664, 711
+  size: 209, 162
+  orig: 276, 249
+  offset: 40, 39
+  index: -1
+h_girl_006
+  rotate: true
+  xy: 2, 183
+  size: 169, 173
+  orig: 276, 249
+  offset: 54, 38
+  index: -1
+h_girl_007
+  rotate: false
+  xy: 657, 356
+  size: 198, 182
+  orig: 276, 249
+  offset: 44, 38
+  index: -1
+h_girl_008
+  rotate: false
+  xy: 223, 521
+  size: 216, 181
+  orig: 276, 249
+  offset: 37, 38
+  index: -1
+h_girl_009
+  rotate: false
+  xy: 2, 697
+  size: 219, 176
+  orig: 276, 249
+  offset: 35, 38
+  index: -1
+h_girl_010
+  rotate: false
+  xy: 2, 525
+  size: 216, 170
+  orig: 276, 249
+  offset: 33, 39
+  index: -1
+h_girl_011
+  rotate: false
+  xy: 2, 354
+  size: 216, 169
+  orig: 276, 249
+  offset: 31, 39
+  index: -1
+h_girl_012
+  rotate: false
+  xy: 223, 704
+  size: 219, 169
+  orig: 276, 249
+  offset: 28, 39
+  index: -1
+h_girl_013
+  rotate: false
+  xy: 444, 704
+  size: 218, 169
+  orig: 276, 249
+  offset: 28, 39
+  index: -1
+h_girl_014
+  rotate: false
+  xy: 664, 540
+  size: 204, 169
+  orig: 276, 249
+  offset: 29, 39
+  index: -1
+h_girl_015
+  rotate: false
+  xy: 441, 365
+  size: 176, 169
+  orig: 276, 249
+  offset: 57, 39
+  index: -1
+h_girl_016
+  rotate: false
+  xy: 220, 350
+  size: 174, 169
+  orig: 276, 249
+  offset: 57, 39
+  index: -1
+h_girl_017
+  rotate: true
+  xy: 345, 20
+  size: 172, 169
+  orig: 276, 249
+  offset: 58, 39
+  index: -1
+h_girl_018
+  rotate: false
+  xy: 687, 185
+  size: 171, 169
+  orig: 276, 249
+  offset: 59, 39
+  index: -1
+h_girl_019
+  rotate: true
+  xy: 516, 20
+  size: 172, 169
+  orig: 276, 249
+  offset: 58, 39
+  index: -1

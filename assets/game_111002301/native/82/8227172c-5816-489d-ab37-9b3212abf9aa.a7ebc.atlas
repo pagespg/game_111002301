@@ -1,0 +1,20 @@
+
+h_sandals.png
+size: 209,98
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+geta_L
+  rotate: false
+  xy: 106, 23
+  size: 101, 73
+  orig: 102, 74
+  offset: 1, 0
+  index: -1
+geta_R
+  rotate: false
+  xy: 2, 2
+  size: 102, 94
+  orig: 102, 95
+  offset: 0, 0
+  index: -1

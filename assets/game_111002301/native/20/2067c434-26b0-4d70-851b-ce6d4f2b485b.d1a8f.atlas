@@ -1,0 +1,202 @@
+
+totalWin_topFX.jpg
+size: 910,910
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_heart/heartParticle_00
+  rotate: true
+  xy: 802, 676
+  size: 110, 86
+  orig: 333, 333
+  offset: 109, 141
+  index: -1
+fx_heart/heartParticle_02
+  rotate: true
+  xy: 802, 788
+  size: 120, 99
+  orig: 333, 333
+  offset: 104, 139
+  index: -1
+fx_heart/heartParticle_04
+  rotate: false
+  xy: 528, 96
+  size: 128, 110
+  orig: 333, 333
+  offset: 100, 139
+  index: -1
+fx_heart/heartParticle_06
+  rotate: true
+  xy: 777, 240
+  size: 136, 121
+  orig: 333, 333
+  offset: 95, 138
+  index: -1
+fx_heart/heartParticle_08
+  rotate: true
+  xy: 777, 378
+  size: 142, 129
+  orig: 333, 333
+  offset: 92, 138
+  index: -1
+fx_heart/heartParticle_10
+  rotate: false
+  xy: 732, 101
+  size: 149, 137
+  orig: 333, 333
+  offset: 88, 138
+  index: -1
+fx_heart/heartParticle_12
+  rotate: false
+  xy: 2, 36
+  size: 155, 145
+  orig: 333, 333
+  offset: 85, 136
+  index: -1
+fx_heart/heartParticle_14
+  rotate: false
+  xy: 179, 50
+  size: 159, 150
+  orig: 333, 333
+  offset: 82, 135
+  index: -1
+fx_heart/heartParticle_16
+  rotate: false
+  xy: 362, 57
+  size: 164, 157
+  orig: 333, 333
+  offset: 79, 132
+  index: -1
+fx_heart/heartParticle_18
+  rotate: false
+  xy: 379, 216
+  size: 168, 166
+  orig: 333, 333
+  offset: 76, 127
+  index: -1
+fx_heart/heartParticle_20
+  rotate: true
+  xy: 2, 183
+  size: 171, 175
+  orig: 333, 333
+  offset: 74, 121
+  index: -1
+fx_heart/heartParticle_22
+  rotate: true
+  xy: 2, 356
+  size: 176, 183
+  orig: 333, 333
+  offset: 71, 114
+  index: -1
+fx_heart/heartParticle_24
+  rotate: true
+  xy: 589, 353
+  size: 181, 186
+  orig: 333, 333
+  offset: 67, 108
+  index: -1
+fx_heart/heartParticle_26
+  rotate: false
+  xy: 2, 534
+  size: 187, 177
+  orig: 333, 333
+  offset: 63, 102
+  index: -1
+fx_heart/heartParticle_28
+  rotate: false
+  xy: 606, 536
+  size: 193, 183
+  orig: 333, 333
+  offset: 61, 97
+  index: -1
+fx_heart/heartParticle_30
+  rotate: false
+  xy: 608, 721
+  size: 192, 187
+  orig: 333, 333
+  offset: 65, 92
+  index: -1
+fx_heart/heartParticle_32
+  rotate: false
+  xy: 202, 716
+  size: 196, 192
+  orig: 333, 333
+  offset: 64, 87
+  index: -1
+fx_heart/heartParticle_34
+  rotate: false
+  xy: 2, 713
+  size: 198, 195
+  orig: 333, 333
+  offset: 64, 83
+  index: -1
+fx_heart/heartParticle_36
+  rotate: false
+  xy: 202, 514
+  size: 176, 200
+  orig: 333, 333
+  offset: 74, 78
+  index: -1
+fx_heart/heartParticle_38
+  rotate: true
+  xy: 400, 556
+  size: 175, 204
+  orig: 333, 333
+  offset: 73, 73
+  index: -1
+fx_heart/heartParticle_40
+  rotate: true
+  xy: 400, 733
+  size: 175, 206
+  orig: 333, 333
+  offset: 73, 69
+  index: -1
+fx_heart/heartParticle_42
+  rotate: true
+  xy: 380, 384
+  size: 170, 207
+  orig: 333, 333
+  offset: 73, 67
+  index: -1
+fx_heart/heartParticle_44
+  rotate: true
+  xy: 187, 348
+  size: 164, 190
+  orig: 333, 333
+  offset: 75, 82
+  index: -1
+fx_heart/heartParticle_46
+  rotate: true
+  xy: 179, 202
+  size: 144, 181
+  orig: 333, 333
+  offset: 96, 88
+  index: -1
+fx_heart/heartParticle_48
+  rotate: true
+  xy: 549, 208
+  size: 143, 181
+  orig: 333, 333
+  offset: 96, 85
+  index: -1
+fx_heart/heartParticle_50
+  rotate: false
+  xy: 801, 558
+  size: 107, 116
+  orig: 333, 333
+  offset: 132, 82
+  index: -1
+fx_heart/heartParticle_52
+  rotate: true
+  xy: 801, 522
+  size: 34, 58
+  orig: 333, 333
+  offset: 133, 135
+  index: -1
+fx_heart/heartParticle_54
+  rotate: false
+  xy: 861, 532
+  size: 26, 24
+  orig: 333, 333
+  offset: 134, 134
+  index: -1

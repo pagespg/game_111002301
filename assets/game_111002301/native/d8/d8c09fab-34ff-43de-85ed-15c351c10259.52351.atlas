@@ -1,0 +1,153 @@
+
+spinBtn.png
+size: 997,997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_borderFX
+  rotate: false
+  xy: 782, 32
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+fx_circle
+  rotate: false
+  xy: 2, 7
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+fx_glow
+  rotate: true
+  xy: 67, 8
+  size: 62, 61
+  orig: 62, 61
+  offset: 0, 0
+  index: -1
+fx_highLight
+  rotate: false
+  xy: 782, 155
+  size: 124, 124
+  orig: 124, 124
+  offset: 0, 0
+  index: -1
+pinks/vfx_a_spin_button_01
+  rotate: false
+  xy: 130, 20
+  size: 48, 50
+  orig: 345, 352
+  offset: 164, 203
+  index: -1
+pinks/vfx_a_spin_button_02
+  rotate: true
+  xy: 247, 2
+  size: 74, 86
+  orig: 345, 352
+  offset: 150, 182
+  index: -1
+pinks/vfx_a_spin_button_03
+  rotate: true
+  xy: 650, 5
+  size: 104, 115
+  orig: 345, 352
+  offset: 136, 165
+  index: -1
+pinks/vfx_a_spin_button_04
+  rotate: false
+  xy: 650, 111
+  size: 130, 142
+  orig: 345, 352
+  offset: 123, 147
+  index: -1
+pinks/vfx_a_spin_button_05
+  rotate: false
+  xy: 492, 85
+  size: 156, 168
+  orig: 345, 352
+  offset: 110, 128
+  index: -1
+pinks/vfx_a_spin_button_06
+  rotate: true
+  xy: 512, 255
+  size: 181, 194
+  orig: 345, 352
+  offset: 96, 108
+  index: -1
+pinks/vfx_a_spin_button_07
+  rotate: true
+  xy: 746, 567
+  size: 202, 222
+  orig: 345, 352
+  offset: 85, 85
+  index: -1
+pinks/vfx_a_spin_button_08
+  rotate: true
+  xy: 746, 771
+  size: 224, 243
+  orig: 345, 352
+  offset: 74, 66
+  index: -1
+pinks/vfx_a_spin_button_09
+  rotate: false
+  xy: 512, 438
+  size: 217, 267
+  orig: 345, 352
+  offset: 64, 46
+  index: -1
+pinks/vfx_a_spin_button_10
+  rotate: false
+  xy: 506, 707
+  size: 238, 288
+  orig: 345, 352
+  offset: 53, 27
+  index: -1
+pinks/vfx_a_spin_button_11
+  rotate: false
+  xy: 2, 379
+  size: 255, 305
+  orig: 345, 352
+  offset: 45, 6
+  index: -1
+pinks/vfx_a_spin_button_12
+  rotate: false
+  xy: 2, 686
+  size: 271, 309
+  orig: 345, 352
+  offset: 37, 1
+  index: -1
+pinks/vfx_a_spin_button_13
+  rotate: true
+  xy: 731, 281
+  size: 284, 263
+  orig: 345, 352
+  offset: 30, 44
+  index: -1
+pinks/vfx_a_spin_button_14
+  rotate: true
+  xy: 275, 699
+  size: 296, 229
+  orig: 345, 352
+  offset: 24, 32
+  index: -1
+pinks/vfx_a_spin_button_15
+  rotate: true
+  xy: 2, 72
+  size: 305, 243
+  orig: 345, 352
+  offset: 20, 15
+  index: -1
+pinks/vfx_a_spin_button_16
+  rotate: true
+  xy: 259, 386
+  size: 298, 251
+  orig: 345, 352
+  offset: 30, 1
+  index: -1
+pinks/vfx_a_spin_button_17
+  rotate: true
+  xy: 247, 78
+  size: 299, 243
+  orig: 345, 352
+  offset: 25, 1
+  index: -1
